@@ -1,8 +1,44 @@
-.time{
-  border: 0px;
+table{
+  border-collapse: collapse;
+}
+.time {
+  border: -1px;
   vertical-align: top;
   position: relative;
-  top: 13px;
+  top: 0px;
   font-weight: lighter;
   text-align: right;
+}
+.jour{
+  background-color: rgb(51, 18, 23);
+  text-align: center;
+}
+.midi{
+  height: 10px;
+  background: repeating-linear-gradient(#120fd3, #0918ee 25px, #0d1ed3 2px, #0f1ec9 2px);
+  text-align: center;
+}
+.pit {
+  color: white;
+}
+
+
+.yellow{
+  background-color: yellow;
+  text-align: center;
+}
+.bleu {
+  background-color: rgb(46, 202, 31);
+  text-align: center;
+}
+
+
+.white {
+  background-color: bisque;
+  text-align: center;
+}
+
+.pink {
+  background-color: rgb(25, 207, 207);
+  text-align: center;
 }
