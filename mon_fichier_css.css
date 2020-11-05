@@ -10,12 +10,12 @@ table{
   text-align: right;
 }
 .jour{
-  background-color: rgb(51, 18, 23);
+  background-color: rgb(240, 231, 232);
   text-align: center;
 }
 .midi{
   height: 10px;
-  background: repeating-linear-gradient(#120fd3, #0918ee 25px, #0d1ed3 2px, #0f1ec9 2px);
+  background: repeating-linear-gradient(#f3f3ef, #efeff1 25px, #efeff1 2px, #efeff5 2px);
   text-align: center;
 }
 .pit {
